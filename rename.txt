@@ -1,0 +1,16 @@
+AnchorPane.
+	VBox.
+		HBox.
+			Label: DogFolio, the Dog Name Management App.
+			Button: Create New Dog.
+			Button: Save Dog.
+			Button: Quit And Get A Cat.
+		TextArea: Fido... Or Nancy?.
+		HBox.
+			Button: Get a Pro Bone-o Dog Lawyer.
+			Button: Random Generate A Dog Name.
+			Button: Just Make It Fido.
+			VBox.
+				Button: Bark.
+				Button: Roll.
+				Button: Treat!.
